@@ -1,6 +1,11 @@
-# ACE 2021 Uganda Fall Training
+---
+layout: post
+title: ACE Uganda Training Schedule for Fall 2021
+---
+{::options toc_levels="1..2" /}
 
-
+* table of contents
+{:toc}
 
 # SCHEDULE
 
